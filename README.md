@@ -34,7 +34,7 @@ Emerging misalignment  \  Alignment faking  \  Hidden objectives
 
 I am actively seeking collaborations in AI Safety and AI Alignment - reach out!
 
-📧 [Email](mari.cairns@gmail.com)
+📧 [Email](mailto:mari.cairns@gmail.com)
 
 💼  [LinkedIn](https://linkedin.com/in/maricairns)
 
