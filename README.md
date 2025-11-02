@@ -32,13 +32,13 @@ Emerging misalignment  \  Alignment faking  \  Hidden objectives
 
 ---
 
-I am actively seeking collaborations and a role in AI Safety and AI Alignment.
+I am actively seeking collaborations in AI Safety and AI Alignment - reach out!
+
+📧 [Email](mari.cairns@gmail.com)
 
 💼  [LinkedIn](https://linkedin.com/in/maricairns)
 
 🌐  [Website](https://maricairns.github.io)
-
-🔗  [AI Safety Collaborations](https://github.com/maricairns/ai-safety-collaborations)
 
 ---
 
