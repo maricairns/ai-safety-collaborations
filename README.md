@@ -42,8 +42,4 @@ I am actively seeking collaborations in AI Safety and AI Alignment - reach out!
 
 ---
 
-## 🏅 My Ideal Role: AI Model Welfare 
-
----
-
-## We are building AI for 8.25+ billion humans. I am here in the race to help make AI go well.
+## We are building AI for 8.27+ billion humans. I am here in the race to help make AI go well.
