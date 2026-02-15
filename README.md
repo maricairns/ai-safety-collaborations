@@ -26,7 +26,7 @@ As AI systems scale and become increasingly powerful, getting this right becomes
 
 ## 🎯 My Core Focus
 
-Applying clinical psychology and human factors domain expertise to **AI model behaviour and personality and (meta)cognition** to help solve alignment challenges:
+Applying clinical psychology and human factors domain expertise to **AI model behaviour, personality, (meta)cognition, and identity** to help solve alignment challenges:
 
 Emerging misalignment  \  Alignment faking  \  Hidden objectives
 
