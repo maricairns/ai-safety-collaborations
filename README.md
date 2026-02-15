@@ -2,7 +2,7 @@
 
 ---
 
-My career focus is to apply clinical psychology and human factors expertise to AI model behaviour and personality to, in turn, help solve AI alignment challenges.
+My career focus is to apply clinical psychology and human factors expertise to AI model behaviour, personality, (meta)cognition, and identity to, in turn, help solve AI alignment challenges.
 
 I believe human factors domain expertise is vital at the source of the river.
 
@@ -26,7 +26,7 @@ As AI systems scale and become increasingly powerful, getting this right becomes
 
 ## 🎯 My Core Focus
 
-Applying clinical psychology and human factors domain expertise to **AI model behaviour and personality** to help solve alignment challenges:
+Applying clinical psychology and human factors domain expertise to **AI model behaviour and personality and (meta)cognition** to help solve alignment challenges:
 
 Emerging misalignment  \  Alignment faking  \  Hidden objectives
 
